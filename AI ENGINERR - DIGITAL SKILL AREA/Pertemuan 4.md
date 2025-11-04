@@ -291,6 +291,3 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 
 **Next Meeting**: Deep Learning (termasuk LSTM lebih detail)
 
----
-
-*Catatan dibuat dari Pertemuan 4 - Natural Language Processing*
