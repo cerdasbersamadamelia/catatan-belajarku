@@ -570,7 +570,7 @@ Untuk reproducibility, selalu set `random_state=42` (atau angka lain).
 5. **Problem utama**: Overfitting dan Underfitting
 6. **Solusi**: Split data training/testing, cross validation
 7. **Evaluasi** berbeda untuk regresi (RMSE) dan klasifikasi (Accuracy, Precision, Recall)
-8. Untuk **imbalanced data**, jangan pakai accuracy!
+8. Untuk **imbalanced data**, jangan pakai accuracy!!
 9. **Scikit-learn** adalah library utama untuk ML di Python
 10. Setiap model ML itu **spesifik untuk 1 task** saja
 
