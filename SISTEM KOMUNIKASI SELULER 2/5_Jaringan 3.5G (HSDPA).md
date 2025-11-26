@@ -489,23 +489,23 @@ Setelah HSDPA (downlink cepat), muncul **HSUPA (High-Speed Uplink Packet Access)
 
 ### Use Case yang Jadi Smooth:
 
-✅ **Streaming YouTube** - 360p-480p lancar (3.5G), 720p smooth (HSPA+)
-✅ **Facebook/Instagram** - load feed cepat, upload foto 1-2 detik
-✅ **WhatsApp** - kirim voice note, foto, video instant
-✅ **Google Maps** - load map cepat, navigasi real-time OK
-✅ **Mobile gaming** - Clash of Clans, Mobile Legends playable (latency ~100ms)
-✅ **Video call** - Skype, WhatsApp call mulai bagus (dengan HSUPA)
-✅ **Music streaming** - Spotify, Joox lancar
-✅ **Download apps** - 10-50 MB download jadi wajar (bukan lama banget)
+- ✅ **Streaming YouTube** - 360p-480p lancar (3.5G), 720p smooth (HSPA+)
+- ✅ **Facebook/Instagram** - load feed cepat, upload foto 1-2 detik
+- ✅ **WhatsApp** - kirim voice note, foto, video instant
+- ✅ **Google Maps** - load map cepat, navigasi real-time OK
+- ✅ **Mobile gaming** - Clash of Clans, Mobile Legends playable (latency ~100ms)
+- ✅ **Video call** - Skype, WhatsApp call mulai bagus (dengan HSUPA)
+- ✅ **Music streaming** - Spotify, Joox lancar
+- ✅ **Download apps** - 10-50 MB download jadi wajar (bukan lama banget)
 
 ### Masalah yang Masih Ada:
 
-❌ **Upload masih lambat** (HSDPA pure, sebelum HSUPA)
-❌ **Latency masih tinggi** untuk FPS gaming (~100-120 ms)
-❌ **Peak hour congestion** - kecepatan drop signifikan
-❌ **Indoor coverage** - frekuensi 2100 MHz kurang tembus gedung
-❌ **Battery drain** - masih boros, HP panas kalau streaming lama
-❌ **Asimetris** - download cepat, upload lambat (annoying untuk upload video)
+- ❌ **Upload masih lambat** (HSDPA pure, sebelum HSUPA)
+- ❌ **Latency masih tinggi** untuk FPS gaming (~100-120 ms)
+- ❌ **Peak hour congestion** - kecepatan drop signifikan
+- ❌ **Indoor coverage** - frekuensi 2100 MHz kurang tembus gedung
+- ❌ **Battery drain** - masih boros, HP panas kalau streaming lama
+- ❌ **Asimetris** - download cepat, upload lambat (annoying untuk upload video)
 
 ---
 
