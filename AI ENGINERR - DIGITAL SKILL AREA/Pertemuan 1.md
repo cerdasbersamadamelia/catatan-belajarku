@@ -253,7 +253,7 @@ Framework:
 
 ### 10. CATATAN PENTING
 
-✅ Data cleaning sangat penting - model bagus dimulai dari data bagus
-✅ Vibe code diperbolehkan - fokus ke konsep, bukan coding
-✅ SHAP Value: Hanya untuk supervised learning (classification & regression)
-✅ Time Series: Pakai SARIMA, ARIMA, SARIMAX, LSTM (tidak perlu feature importance)
+- ✅ Data cleaning sangat penting - model bagus dimulai dari data bagus
+- ✅ Vibe code diperbolehkan - fokus ke konsep, bukan coding
+- ✅ SHAP Value: Hanya untuk supervised learning (classification & regression)
+- ✅ Time Series: Pakai SARIMA, ARIMA, SARIMAX, LSTM (tidak perlu feature importance)
