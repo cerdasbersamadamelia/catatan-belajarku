@@ -199,7 +199,7 @@ Lebih banyak orang gagal bisnis daripada sukses jadi karyawan.
 - Timothy: Warren Buffett tulis apa, dengerin, lakuin. Baca 80-100 buku tentang Warren Buffett. Nonton semua interview & video 100 kali!
 
 **Pesan untuk Karyawan:** 
-Kalau disuruh belajar skill baru, jangan bilang "itu bukan bidang saya!" Timothy cuma **lulusan SMP** tapi belajar semua sendiri (ngedit, kamera, bikin konten, nulis skrip, bikin pertanyaan, dll).
+Kalau disuruh belajar skill baru, jangan bilang "itu bukan bidang saya!" Atta cuma **lulusan SMP** tapi belajar semua sendiri (ngedit, kamera, bikin konten, nulis skrip, bikin pertanyaan, dll).
 
 ---
 
@@ -412,6 +412,7 @@ Timothy sempat bilang jangan ngomongin bola terus, tapi **maksudnya bukan buat A
 ## 📚 Bonus: Lessons dari Atta vs Timothy
 
 **Atta Halilintar:**
+- Lulusan SMP tapi self-taught everything
 - Nomor 1 YouTube Indonesia 5 tahun
 - Hoodie Aha dimana-mana (bukti branding kuat)
 - Direspek pengusaha & investor karena skill medianya
@@ -419,7 +420,6 @@ Timothy sempat bilang jangan ngomongin bola terus, tapi **maksudnya bukan buat A
 - Lulusan mahasiswa dunia (belajar dari semua orang)
 
 **Timothy Ronald:**
-- Lulusan SMP tapi self-taught everything
 - Udah kaya sebelum terkenal (bukan sebaliknya)
 - Akademi Kripto - dulu murah (Rp90-100rb/bulan), sekarang mahal untuk filter orang serius
 - Ga pernah rayain milestone YouTube (Rp3 juta subscriber, dll) karena **"Kalian yang bersyukur saya nyalain kamera"**
