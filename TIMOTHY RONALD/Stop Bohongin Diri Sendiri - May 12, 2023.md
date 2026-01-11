@@ -1,6 +1,7 @@
 # Stop Bohongin Diri Sendiri
 
 📹 **Video Source:** [Stop Bohongin Diri Sendiri](https://www.youtube.com/watch?v=6UpJs9NSKTc)
+
 📅 **Date:** May 12, 2023
 
 ## Keyakinan Gua

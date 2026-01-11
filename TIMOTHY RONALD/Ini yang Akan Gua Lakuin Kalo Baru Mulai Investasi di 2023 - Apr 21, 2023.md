@@ -1,6 +1,7 @@
 # Ini yang Akan Gua Lakuin Kalo Baru Mulai Investasi di 2023
 
 📹 **Video Source:** [Ini yang Akan Gua Lakuin Kalo Baru Mulai Investasi di 2023](https://www.youtube.com/watch?v=dfZdItAdFu4)
+
 📅 **Date:** April 21, 2023
 
 ## Kondisi Tahun 2023

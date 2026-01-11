@@ -1,6 +1,7 @@
 # Hidup Cuma Sekali, Jangan Jadi Pecundang
 
 📹 **Video Source:** [Hidup Cuma Sekali, Jangan Jadi Pecundang](https://www.youtube.com/watch?v=v7K5sYVClOE)
+
 📅 **Date:** April 30, 2023
 
 ## Warning
