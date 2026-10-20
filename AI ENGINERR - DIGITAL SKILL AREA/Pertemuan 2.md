@@ -298,7 +298,7 @@ Jarang dipakai untuk AI/ML Engineer, lebih ke Data Scientist/Analyst.
 Jarang dipakai! Biasanya untuk deep learning/computer vision.
 
 #### **2. Recall** ⭐
-**"Manajemen Risiko - Jaga-jaga anggap jelek"**
+**"Manajemen Risiko - Jaga-jaga dianggap jelek"**
 
 **Kapan pakai:**
 - **Fraud Detection:** Jaga-jaga nasabah yang mau pinjam 100 miliar
@@ -327,6 +327,8 @@ Bingung mau pakai Recall atau Precision? **Pakai F1-Score!**
 **Yang Salah:**
 - False Positive (FP): Negatif tapi diprediksi Positif ❌
 - False Negative (FN): Positif tapi diprediksi Negatif ❌
+
+<img width="1003" height="792" alt="image" src="https://github.com/user-attachments/assets/46042ed8-8ce3-4a0b-9a3f-44b8af647ce3" />
 
 **Note:** Positif/Negatif bisa apa aja (kucing/anjing, spam/bukan spam, dll)
 
