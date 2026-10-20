@@ -115,6 +115,7 @@ Pakai dua-duanya! Tapi Seaborn lebih utama.
    - **Median (garis kuning):** Nilai tengah
    - **Q1:** 25% data pertama (nilai kecil)
    - **Q3:** 75% data pertama (nilai besar)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1d57bb1b-8de7-42b2-84d7-ababef185436" />
 
 2. **Scatter Plot** - Lihat hubungan antar variabel
 
