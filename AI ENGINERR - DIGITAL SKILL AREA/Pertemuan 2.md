@@ -200,9 +200,17 @@ Untuk model statistical seperti:
 - Linear Regression
 - Logistic Regression
 - Polynomial Regression
+- Probit Regression
+- Poisson / Negative Binomial
 
 **Resampling Techniques:**
 Untuk model machine learning berbasis non-statistical.
+- Decision Tree
+- Random Forest
+- XGBoost / LightGBM / CatBoost
+- Support Vector Machine (SVM)
+- k-Nearest Neighbors (KNN)
+- Neural Networks (MLP, CNN, RNN, Transformer, dll)
 
 **Penting:** Resampling juga cocok untuk model statistical! Tapi probabilistic **tidak cocok** untuk model ML biasa.
 
