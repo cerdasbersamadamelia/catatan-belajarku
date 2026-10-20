@@ -53,6 +53,7 @@ Tools Data Engineer (opsional):
 - Docker
 - Apache Airflow
 - DBT (Data Build Tool)
+- Hadoop
 - Prefect
 
 ---
