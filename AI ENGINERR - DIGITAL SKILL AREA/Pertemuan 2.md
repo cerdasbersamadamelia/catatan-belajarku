@@ -442,7 +442,7 @@ Ubah semua string menjadi angka supaya bisa dibaca komputer.
 - **Scikit-Learn:** scikit-learn.org
 - **TensorFlow:** tensorflow.org
 - **PyTorch:** pytorch.org
-- **Dataset:** kaggle.com / UCI Machine Learning Repository
+- **Dataset:** [kaggle](https://www.kaggle.com/datasets) / [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
 - **Big Dataset (2GB+):** Kaggle dengan filter size
 
 ---
