@@ -384,7 +384,7 @@ Kolom dengan unique value terlalu banyak = kolom identitas.
 ### 4. Drop Kolom Missing > 25%
 Kolom dengan missing value di atas 25% dianggap tidak relevan.
 
-### 5. Labeling
+### 5. Label Encoding
 Ubah semua string menjadi angka supaya bisa dibaca komputer.
 
 ### 6. Correlation Heatmap
