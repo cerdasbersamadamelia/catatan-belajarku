@@ -282,7 +282,7 @@ Jarang dipakai untuk AI/ML Engineer, lebih ke Data Scientist/Analyst.
 
 | Input | Output | Method |
 |-------|--------|--------|
-| Categorical | Numerical | **ANOVA** (paling sering) / Kendal |
+| Categorical | Numerical | **ANOVA** (paling sering) / Kendall |
 | Categorical | Categorical | **Chi-Square** (paling sering) / Mutual Information |
 | Numerical | Numerical | **Pearson** / Spearman (sama-sama populer) |
 
